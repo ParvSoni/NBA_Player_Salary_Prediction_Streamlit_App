@@ -27,4 +27,5 @@ Creating the Web App with Streamlit:
 To make your project accessible and user-friendly, you developed a web application using Streamlit. Streamlit is a Python library that allows you to create interactive web applications for data science projects with minimal code. The web app likely allows users to input the features of an NBA player and get a predicted price based on the trained XGBoost model.
 
 # Video For Explanation -
-[NBA Project Recording.webm](https://github.com/ParvSoni/NBA_Player_Price_Prediction/assets/123165567/0eb9baf5-19a8-4f02-ac8d-bfeaa7441cba)
+[streamlit-app-2023-09-20-22-09-45.webm](https://github.com/ParvSoni/NBA_Player_Price_Prediction_Streamlit_App/assets/123165567/d028658e-a648-4ffb-a2cf-972151cd1f2d)
+
