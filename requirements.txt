@@ -1,4 +1,5 @@
 streamlit == 1.29.0
 numpy == 1.23.5
 pandas == 2.1.4
-pillow = 10.2.0
+pillow == 10.2.0
+XGBoost == 1.7.3
