@@ -8,7 +8,7 @@ model = pickle.load(open('model.sav','rb'))
 
 st.title('NBA Player Salary Prediction')
 st.sidebar.header('Player Attributes')
-image = Image.open('image.jpg')
+image = Image.open('image.jpeg')
 st.image(image, " ")
 
 def user_report():
